@@ -1,0 +1,2 @@
+Im completely new to node, well im a noob at javascript in general lol. This repository is basically just a way to document my node notes and my example/practice code. I will eventually add html, css, & other dev notes repositories for my existing notes. I just havent had the time to pull all my notes together and push. 
+When i feel comfortable enough with node and other aspects of the javascript stack, i'll make make an attempt at a mini web app. 
